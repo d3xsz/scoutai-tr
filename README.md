@@ -4,7 +4,7 @@
 
 > Sofascore API'den canlı maç verisi çeken, takım istatistiklerini işleyen ve yapay zeka destekli maç tahminleri üreten tek dosyalık bir web uygulaması — tamamen vanilla JavaScript ile, framework kullanılmadan geliştirildi.
 
-**[GitHub](https://github.com/d3xsz/scoutai)** | Geliştirici: [@d3xsz](https://github.com/d3xsz)
+**[GitHub](https://github.com/d3xsz/scoutai-tr)** | Geliştirici: [@d3xsz](https://github.com/d3xsz)
 
 ---
 
