@@ -1,4 +1,4 @@
-[README_TR_1.md](https://github.com/user-attachments/files/26322865/README_TR_1.md)
+
 # ScoutAI ⚽🏀
 ### Gerçek Zamanlı Spor Analizi ve Tahmin Platformu
 
